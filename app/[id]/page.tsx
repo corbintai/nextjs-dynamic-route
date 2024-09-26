@@ -1,6 +1,6 @@
 import React from "react";
 
-const UserIdPage = () => {
+const UserIdPage = async () => {
   return <div>UserIdPage</div>;
 };
 

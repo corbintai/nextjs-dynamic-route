@@ -1,6 +1,6 @@
 import React from "react";
 
-const TaiPageId = () => {
+const TaiPageId = async () => {
   return <div>TaiPageId</div>;
 };
 
